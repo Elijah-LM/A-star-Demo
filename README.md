@@ -19,5 +19,5 @@ Press Space: Start the A* algorithm to find the shortest path between the start 
 
 Press C: Clear the grid and reset the nodes.
 
-**A* Algorithm Overview**
+**Algorithm Overview**
 The A* algorithm is a popular pathfinding and graph traversal algorithm used in many applications such as games, navigation, and artificial intelligence. It finds the shortest path between two nodes on a graph by considering both the cost of the path and the estimated cost to the goal (heuristic).
